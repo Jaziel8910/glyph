@@ -1,0 +1,10 @@
+# SHA-256 de los wordlists BIP-39 oficiales (bitcoin/bips).
+# Protege contra cambios accidentales de orden que romperian backups viejos.
+[wordlists]
+en = "sha256:2f5eed53a4727b4bf8880d8f3f199efc90e58503646d9ff8eff3a2ed3b24dbda"
+es = "sha256:46846a5a0139d1e3cb77293e521c2865f7bcdb82c44e8d0a06a2cd0ecba48c0b"
+fr = "sha256:ebc3959ab7801a1df6bac4fa7d970652f1df76b683cd2f4003c941c63d517e59"
+it = "sha256:d392c49fdb700a24cd1fceb237c1f65dcc128f6b34a8aacb58b59384b5c648c2"
+ja = "sha256:2eed0aef492291e061633d7ad8117f1a2b03eb80a29d0e4e3117ac2528d05ffd"
+zh-hans = "sha256:5c5942792bd8340cb8b27cd592f1015edf56a8c5b26276ee18a482428e7c5726"
+zh-hant = "sha256:417b26b3d8500a4ae3d59717d7011952db6fc2fb84b807f3f94ac734e89c1b5f"

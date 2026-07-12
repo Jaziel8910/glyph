@@ -1,0 +1,6 @@
+/target
+**/*.rs.bk
+glyph-seed-backup.enc
+glyph-seed-export.bin
+.glyph/
+glyph-shares/

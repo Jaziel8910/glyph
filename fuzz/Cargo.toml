@@ -1,0 +1,15 @@
+[package]
+name = "glyph-fuzz"
+version = "0.0.0"
+edition = "2021"
+publish = false
+
+[dependencies]
+libfuzzer-sys = "0.4"
+glyph = { path = ".." }
+
+[[bin]]
+name = "permutation"
+path = "fuzz_targets/permutation.rs"
+test = false
+doc = false
